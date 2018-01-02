@@ -24,7 +24,7 @@ gems:
 # ----------------------- #
 
 social:
-  - icon: email
+  - icon: glyphicons-envelope
     title: email
     mailto: lwaldburger@berkeley.edu
   - icon: linkedin
