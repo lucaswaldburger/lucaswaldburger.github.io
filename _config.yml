@@ -27,13 +27,13 @@ social:
   - icon: envelope
     title: email
     mailto: lwaldburger@berkeley.edu
+  - icon: file-pdf-o
+    title: cv
+    url: http://www.lucaswaldburger.me/rsc/resume.pdf
   - icon: linkedin
     title: linkedin
     url: https://www.linkedin.com/in/lucas-waldburger-0b57a29a
   - icon: github
     title: github
     url: https://github.com/lucaswaldburger
-  - icon: file-pdf-o
-    title: cv
-    #need to update
-    url: http://www.lucaswaldburger.me/rsc/resume.pdf
+
