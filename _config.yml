@@ -24,6 +24,9 @@ gems:
 # ----------------------- #
 
 social:
+  - icon: email
+    title: email
+    mailto: lwaldburger@berkeley.edu
   - icon: linkedin
     title: linkedin
     url: https://www.linkedin.com/in/lucas-waldburger-0b57a29a
