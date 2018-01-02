@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.wesleyq.me/
-title: Wesley W. Q.
-email: wesley.chin0919@gmail.com
-author: Wesley Wei Qian
-description: > # "Wesley Wei Qian's Personal Page"
+url: http://www.lucaswaldburger.me/
+title: Lucas Waldburger
+email: lwaldburger@berkeley.edu
+author: Lucas Waldburger
+description: > # "Lucas Waldburger's Personal Website"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -24,18 +24,13 @@ gems:
 # ----------------------- #
 
 social:
-  - icon: medium
-    title: blog
-    url: https://medium.com/thoughts-and-notes
-  - icon: envelope-o
-    title: email
-    url: mailto:wesley.chin0919@gmail.com
-  - icon: github
-    title: github
-    url: https://github.com/WesleyyC
   - icon: linkedin
     title: linkedin
-    url: https://www.linkedin.com/in/wesleychin0919
+    url: https://www.linkedin.com/in/lucas-waldburger-0b57a29a
+  - icon: github
+    title: github
+    url: https://github.com/lucaswaldburger
   - icon: file-pdf-o
     title: resume
+    #need to update
     url: http://www.wesleyq.me/rsc/resume.pdf
