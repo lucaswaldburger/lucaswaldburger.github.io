@@ -106,7 +106,7 @@ particlesJS('particles-js',
     "events": {
       "onhover": {
         "enable": true,
-        "mode": "grab"
+        "mode": "bubble"
       },
       "onclick": {
         "enable": true,
@@ -122,8 +122,8 @@ particlesJS('particles-js',
         }
       },
       "bubble": {
-        "distance": 400,
-        "size": 40,
+        "distance": 120,
+        "size": 6,
         "duration": 2,
         "opacity": 8,
         "speed": 3
