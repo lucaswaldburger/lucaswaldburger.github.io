@@ -26,9 +26,9 @@ gems:
 social:
   - icon: envelope
     title: email
-    url: [mailto:lwaldburger@berkeley.edu]
+    url: mailto:lwaldburger@berkeley.edu
   - icon: file-pdf-o
-    title: cv
+    title: resume
     url: http://www.lucaswaldburger.me/rsc/resume.pdf
   - icon: linkedin
     title: linkedin
