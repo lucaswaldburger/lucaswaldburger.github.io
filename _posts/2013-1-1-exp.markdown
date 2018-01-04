@@ -2,7 +2,7 @@
 layout: default
 img: sbcc.jpg
 category: Experiences
-title: Note-Taker
+title: Note Taker
 description: |
 ---
 
