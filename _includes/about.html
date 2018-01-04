@@ -1,33 +1,31 @@
 <section id="about">
-	<!-- Profile -->
 	<div class="content-section-b">
 	    <div class="container">
-  		<div class="row">
-		    <h2 class="section-heading">About</h2>
-		    <hr class="section-heading-spacer">
-	            <div class="clearfix"></div>	
+	        <div class="row">
+	            <h2 class="category-heading alt-font">About</h2>
+	            <hr class="section-heading-spacer">
+	            <div class="clearfix"></div>
+{% for post in site.posts reversed %}
+    {% if post.category contains 'Experiences'%}
+	<div class="container">
+		<div class="row">
 			<div class="col-lg-5 col-sm-6">
-			   <h2 class="section-heading">&nbsp</h2>
-                           <img class="img-responsive center-block" src="img/profile.jpg" alt="">
-			</div>
-			<div class="col-lg-5 col-lg col-sm-6">	
-			   <div class="lead">
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec arcu efficitur, finibus leo at, cursus nulla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec posuere vehicula ex sed commodo. Fusce hendrerit turpis ut neque pharetra pellentesque. Sed gravida malesuada sem non vehicula. Morbi tincidunt efficitur metus non porta. Sed laoreet molestie justo quis vulputate. Praesent vestibulum leo at nunc volutpat, ut porta eros blandit. Aenean id facilisis nunc, quis tincidunt turpis. Maecenas faucibus elit ac metus semper facilisis eu eget quam. Donec suscipit leo vitae magna imperdiet tempor. Vivamus vestibulum diam non velit sollicitudin rutrum. Aenean imperdiet massa in augue suscipit, sed eleifend diam faucibus. Etiam placerat urna eros, sit amet blandit urna posuere tristique. Vivamus nisi diam, fringilla vitae enim ut, laoreet porta tortor.
-
-Aliquam viverra ultrices sem, et viverra nunc sodales quis. Integer consequat libero sit amet hendrerit vehicula. Praesent nec tellus ut orci pulvinar tempus ut vitae diam. Donec ornare, eros et aliquam ornare, lacus tellus gravida nunc, rhoncus porttitor eros augue sit amet felis. Praesent felis nisi, rutrum et aliquet id, euismod vel nunc. Proin eget dignissim nisl. In at elit et nulla molestie placerat ut ac enim. Cras nec quam vel augue vestibulum consectetur tempus in dolor. Praesent mattis tincidunt maximus. Ut vel facilisis nunc, consectetur varius quam. Mauris sollicitudin dolor nunc, viverra elementum lectus tempor sit amet. Sed ut auctor justo. Etiam ullamcorper dolor at ante fringilla, sed fermentum odio lobortis. Nulla ac mattis dolor. Aliquam cursus arcu bibendum massa ultrices, at euismod nisl consequat.
-
-Proin mollis congue urna a varius. Nulla vel nulla dolor. Praesent nisl purus, eleifend a ornare vel, convallis eu sapien. Aliquam erat volutpat. Sed leo libero, placerat et egestas a, maximus nec est. Sed viverra vestibulum odio vel fermentum. Donec at feugiat dui. Morbi eget accumsan mi, id pretium nibh. Sed vitae metus id tellus mollis aliquam.
-
-Donec non lacinia massa. Pellentesque vehicula tempus orci sed dapibus. Nulla tempor sit amet sem non aliquet. Nunc vitae ultrices nunc. Quisque tempus condimentum magna posuere maximus. Aenean elementum fermentum iaculis. Vestibulum id lectus condimentum, maximus tortor et, viverra dui. Nam egestas ante quis eros efficitur hendrerit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris cursus lacus purus, at ultrices diam molestie dictum. Maecenas commodo libero in lacus molestie feugiat. Donec suscipit ex non mi imperdiet, in fringilla tellus consequat.
-
-Etiam laoreet varius ullamcorper. Phasellus sodales eros nunc, in sodales lorem auctor in. Sed volutpat diam odio, vitae lacinia purus pellentesque at. Nulla sed sem egestas, scelerisque erat ac, molestie urna. Suspendisse faucibus lectus sed viverra vulputate. Sed nec erat at orci interdum venenatis. Quisque vel rhoncus lectus, quis mollis augue. Phasellus blandit erat quam, in viverra felis feugiat a. Sed blandit in sapien vulputate aliquet. Phasellus fringilla metus lacinia elit facilisis gravida. Sed vitae efficitur diam. Curabitur condimentum feugiat laoreet. Duis imperdiet tincidunt enim eget faucibus. Vestibulum tincidunt quam sed ipsum accumsan, quis tempus nunc accumsan. Pellentesque mauris quam, interdum ultrices libero sed, gravida ornare quam.
-	
-			</div>
-                   </div>
+				<h2 class="section-heading">&nbsp</h2>
+                        	<img class="img-responsive center-block" src="img/{{ post.img }}" alt="">
+				
 		</div>
+			<div class="col-lg-5 col-lg col-sm-6">
+                        	<h2 class="section-heading">{{ post.title }}</h2>
+                        	<div class="lead">{{ post.content }}</div>
+                  	</div>
+                </div>
+	</div>
+            <!-- /.container -->
+    {% endif %}
+{% endfor %}
+	        </div>
 	    </div>
 	</div>
-
 </section> 
 
 
