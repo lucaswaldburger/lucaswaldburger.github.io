@@ -1,0 +1,10 @@
+---
+layout: default
+img: ucsb_mrl.png
+category: Experiences
+title: Jack Kent Cooke Bridges Participant
+description: |
+---
+
+* Analyzed the transfection efficiency of DNA-lipid complexes as drug delivery vehicles using fluorescent microscopy. 
+* Collaborated with graduate students and presented findings to a panel of researchers.
