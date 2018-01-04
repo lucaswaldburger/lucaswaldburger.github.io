@@ -1,8 +1,8 @@
 ---
 layout: default
-img: sbcc.jpg
+img: free_clinic.jpg
 category: Experiences
-title: Note-Taker
+title: Medical Assistant
 description: |
 ---
 
