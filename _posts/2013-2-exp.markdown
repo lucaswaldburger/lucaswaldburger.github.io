@@ -1,9 +1,0 @@
----
-layout: default
-img: mesa.png
-category: Experiences
-title: Calculus Tutor
-description: |
----
-
-* Taught calculus to financially disadvantaged and academically underrepresented students.
