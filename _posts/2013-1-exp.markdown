@@ -1,0 +1,9 @@
+---
+layout: default
+img: sbcc.jpg
+category: Experiences
+title: Note-Taker
+description: |
+---
+
+* Compiled notes and prepared study guides in calculus and psychology for disabled students.
