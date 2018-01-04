@@ -7,4 +7,4 @@ description: |
 ---
 
 * Handled logistics for the annual Northern California Computational Biology in UC Santa Cruz.
-* Coordinated with students from UC Berkeley, UC Santa Cruz, UCSF, and Stanford.
+* Coordinated with students from UC Berkeley, UC Santa Cruz, UC San Francisco, and Stanford.
