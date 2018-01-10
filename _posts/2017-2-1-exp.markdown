@@ -1,9 +1,0 @@
----
-layout: default
-img: ucb_coc.png
-category: Experiences
-title: Biophysical Chemistry Teaching Assistant
-description: |
----
-
-* Part of a cohort of undergraduates that host weekly review sessions to supplement the lecture material in Biophysical Chemistry (MCB C100A/CHEM C130).
