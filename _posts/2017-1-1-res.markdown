@@ -5,11 +5,12 @@ category: Research
 title: El-Samad Lab
 description: |
 ---
+&nbsp;&nbsp;  <i class="fa fa-briefcase alt-font"></i>&nbsp;UCSF Department of Biochemistry
+<br>
+&nbsp;&nbsp;  <i class="fa fa-calendar"></i>&nbsp;January 2017 - Present
+<br>
+&nbsp;&nbsp;  Advisor: Andrew Ng (PhD Candidate)
 
-* Advisor: Andrew Ng (PhD Candidate)
-<br><br>
 * Spring 2017:
-<br><br>
 * Summer 2017:
-<br><br>
 * Fall 2017:

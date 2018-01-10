@@ -5,7 +5,10 @@ category: Research
 title: Savage Lab & Doudna Lab
 description: |
 ---
+&nbsp;&nbsp;  <i class="fa fa-briefcase alt-font"></i>&nbsp;UC Berkeley Innovative Genomics Institute
+<br>
+&nbsp;&nbsp;  <i class="fa fa-calendar"></i>&nbsp;October 2017 - Present
+<br>
+&nbsp;&nbsp;  Advisor: Dr. Benjamin Oakes
 
-* Advisor: Dr. Benjamin Oakes
-<br><br>
 * Fall 2017:

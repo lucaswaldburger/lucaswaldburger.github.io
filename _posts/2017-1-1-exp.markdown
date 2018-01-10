@@ -5,5 +5,10 @@ category: Experiences
 title: Summer Research Assistant
 description: |
 ---
-
+&nbsp;&nbsp;  <i class="fa fa-briefcase alt-font"></i>&nbsp;Chan Zuckerberg Biohub
+<br>
+&nbsp;&nbsp;  <i class="fa fa-calendar"></i>&nbsp;June 2017 - August 2017
+<br>
+&nbsp;&nbsp;  Advisor: Dr. Joe DeRisi
+* Processed mouse samples from Stanford labs working on the Cell Atlas Project
 * Wrote automation programs to process data from the Cell Atlas Project

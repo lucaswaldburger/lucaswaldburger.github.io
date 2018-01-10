@@ -5,9 +5,12 @@ category: Experiences
 title: Project ACESSO Participant
 description: |
 ---
+&nbsp;&nbsp;  <i class="fa fa-briefcase alt-font"></i>&nbsp;CSU Channel Islands Department of Chemistry
+<br>
+&nbsp;&nbsp;  <i class="fa fa-calendar"></i>&nbsp;May 2014 - August 2014
+<br>
+&nbsp;&nbsp;  Advisor: Dr. Britnee Veldman
 
-* Advisor: Dr. Britnee Veldman
-<br><br>
-* Developed a laboratory teaching protocol in enzyme kinetics for an upper division physical chemistry course at California State University Channel Islands.
-<br><br>
-* Adapted methodology to successful techniques in literature.
+* Taught to prepare solutions and analyze data using MS Excel
+* Developed a laboratory teaching protocol in enzyme kinetics for an upper division physical chemistry course
+* Adapted laboratory methodology to successful techniques in literature

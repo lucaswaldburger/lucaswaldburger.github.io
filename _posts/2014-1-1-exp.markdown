@@ -5,5 +5,10 @@ category: Experiences
 title: Math Tutor
 description: |
 ---
+&nbsp;&nbsp;  <i class="fa fa-briefcase alt-font"></i>&nbsp;Santa Barbara City College
+<br>
+&nbsp;&nbsp;  <i class="fa fa-calendar"></i>&nbsp;May 2014 - August 2014
 
-* Taught singe-variable calculus to financially disadvantaged and academically underrepresented students at a local coffee shop after class to review concepts and prepare for exams.
+* Taught singe-variable calculus to financially disadvantaged and academically underrepresented students from Extended Opportunity Programs and Services (EOPS)
+* Reviewed concepts from the course and helped with problem sets
+* Prepared students for exams

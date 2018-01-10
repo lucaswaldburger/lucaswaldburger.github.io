@@ -5,11 +5,12 @@ category: Research
 title: Dueber Lab
 description: |
 ---
+&nbsp;&nbsp;  <i class="fa fa-briefcase alt-font"></i>&nbsp;UC Berkeley Department of Bioengineering
+<br>
+&nbsp;&nbsp;  <i class="fa fa-calendar"></i>&nbsp;January 2017 - Present
+<br>
+&nbsp;&nbsp;  Advisor: Dr. Jennifer Samson
 
-* Advisor: Dr. Jennifer Samson
-<br><br>
 * Spring 2017:
-<br><br>
 * Summer 2017:
-<br><br>
 * Fall 2017:

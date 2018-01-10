@@ -5,9 +5,11 @@ category: Experiences
 title: Medical Assistant
 description: |
 ---
+&nbsp;&nbsp;  <i class="fa fa-briefcase alt-font"></i>&nbsp;Berkeley Free Clinic
+<br>
+&nbsp;&nbsp;  <i class="fa fa-calendar"></i>&nbsp;May 2016 - August 2016
+<br>
 
 * Completed microscopy on patient samples
-<br><br>
 * Performed and interpreted laboratory results
-<br><br>
 * Interacted with patients and catalogued records
