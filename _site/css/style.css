@@ -3,10 +3,10 @@
 /* ---------------------------------------------- */
 
 @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(http://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(http://fonts.googleapis.com/css?family=Lato:400,300,700);
 
 body {
-	font: 300 15px/1.6 'Raleway', serif, sans-serif;
+	font: 300 15px/1.6 'Lato', serif, sans-serif;
 	color: #545454;
 }
 
@@ -344,7 +344,7 @@ a,
 
 .section, .callout {
 	position: relative;
-	padding: 1px 0;
+	padding: 120px 0;
 }
 
 .callout {
@@ -767,7 +767,7 @@ h3 > .fa {
 	}
 
 	#stats .stat {
-		margin: 0 0 200px;
+		margin: 0 0 20px;
 	}
 
 }
