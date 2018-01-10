@@ -1,0 +1,15 @@
+---
+layout: default
+img: ucsf_synbio.png
+category: Research
+title: El-Samad Lab
+description: |
+---
+
+* Advisor: Andrew Ng (PhD Candidate)
+<br><br>
+* Spring 2017:
+<br><br>
+* Summer 2017:
+<br><br>
+* Fall 2017:

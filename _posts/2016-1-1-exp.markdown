@@ -1,0 +1,13 @@
+---
+layout: default
+img: free_clinic2.jpg
+category: Experiences
+title: Medical Assistant
+description: |
+---
+
+* Completed microscopy on patient samples
+<br><br>
+* Performed and interpreted laboratory results
+<br><br>
+* Interacted with patients and catalogued records

@@ -1,0 +1,9 @@
+---
+layout: default
+img: biohub.jpg
+category: Experiences
+title: Summer Research Assistant
+description: |
+---
+
+* Wrote automation programs to process data from the Cell Atlas Project

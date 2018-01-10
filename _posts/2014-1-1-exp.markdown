@@ -1,0 +1,9 @@
+---
+layout: default
+img: mesa.png
+category: Experiences
+title: Math Tutor
+description: |
+---
+
+* Taught singe-variable calculus to financially disadvantaged and academically underrepresented students at a local coffee shop after class to review concepts and prepare for exams.

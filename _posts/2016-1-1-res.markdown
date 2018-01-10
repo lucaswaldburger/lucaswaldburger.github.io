@@ -1,0 +1,11 @@
+---
+layout: default
+img: ucsf.png
+category: Research
+title: Li Lab
+description: |
+---
+
+* Advisor: Dr. X (postdoctoral researcher originally from Cynthia Kenyon's Lab)
+<br><br>
+* Fall 2016: Measured lifespan and cellular phenotypes in single budding yeast cells using microfluidic devices. Analyzing results by applying concepts from computational biology and bioinformatics.

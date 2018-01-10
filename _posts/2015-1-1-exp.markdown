@@ -1,0 +1,13 @@
+---
+layout: default
+img: aac_lab.jpg
+category: Experiences
+title: Laboratory Technician
+description: |
+---
+
+* Prepared atmospheric sampling devices for analysis of volatile organic compounds in the San Joaquin Valley.
+<br><br>
+* Responsible for taking inventory of received samples and following chain of custody.
+<br><br>
+* Trained to interpret IR and NMR spectra as well as run GS-MS analysis.

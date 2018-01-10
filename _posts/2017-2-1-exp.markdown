@@ -1,0 +1,11 @@
+---
+layout: default
+img: nccb17.png
+category: Experiences
+title: Organizing Committee Member
+description: |
+---
+
+* Handled logistics for the annual Northern California Computational Biology at UC Santa Cruz.
+<br><br>
+* Coordinated with students from UC Berkeley, UC Santa Cruz, UC San Francisco, and Stanford.

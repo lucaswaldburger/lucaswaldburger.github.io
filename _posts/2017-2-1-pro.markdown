@@ -1,0 +1,9 @@
+---
+layout: default
+img: crispr_gui.png
+category: Projects
+title: CRISPR Assembly Tool
+description: |
+---
+<i class="fa fa-trophy"></i> Best CRIPSR Assembly Software | UC Berkeley Department of Bioengineering
+* Insert Description

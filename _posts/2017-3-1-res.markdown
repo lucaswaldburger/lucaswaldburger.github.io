@@ -1,0 +1,11 @@
+---
+layout: default
+img: igi.png
+category: Research
+title: Savage Lab & Doudna Lab
+description: |
+---
+
+* Advisor: Dr. Benjamin Oakes
+<br><br>
+* Fall 2017:

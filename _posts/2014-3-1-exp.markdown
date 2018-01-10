@@ -1,0 +1,13 @@
+---
+layout: default
+img: ucsb_mrl.png
+category: Experiences
+title: Jack Kent Cooke Bridges Participant 
+description: |
+---
+
+* Advisor: Emily Wonder (PhD candidate in the Safinya Group)
+<br><br>
+* Analyzed the transfection efficiency of DNA-lipid complexes as drug delivery vehicles using fluorescent microscopy. 
+<br><br>
+* Collaborated with graduate students and presented findings to a panel of researchers.

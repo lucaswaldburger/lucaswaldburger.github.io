@@ -1,0 +1,17 @@
+---
+layout: default
+img: sbcc.jpg
+category: Experiences
+title: Note Taker
+description: |
+---
+
+* Compiled notes and study guides through Disability Services and Programs for Students (DSPS) and Extended Opportunity Programs and Services (EOPS) at Santa Barbara City College.
+<br><br>
+* Courses:
+    * Introduction to Psychology
+    * Calculus with Analytic Geometry I
+    * Calculus with Analytic Geometry II
+    * Multivariable Calculus
+    * Linear Algebra
+    * Differential Equations
