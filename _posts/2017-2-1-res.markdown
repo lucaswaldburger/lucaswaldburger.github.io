@@ -14,3 +14,5 @@ description: |
 * Spring 2017: Characterized a comparator device for antithetic integral feedback in *S. cerevisiae*
 * Summer 2017: Optimized the comparator by testing new synthetic transcription factors. Developed a Python-based tool to aid in CRISPR assembly using Cas9 gRNA-acceptor vectors.
 * Fall 2017: Designed and built yeast strains to test *in silico* feedback for optimal on-pathway flux of the BIA pathway.
+<br><br>
+<a href="http://lucaswaldburger.me/rsc/20170530_poster.pdf" target="_blank" class="btn btn-default btn-custom-2"> Poster #1</a>
