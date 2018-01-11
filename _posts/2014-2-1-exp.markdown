@@ -9,7 +9,7 @@ description: |
 <br>
 &nbsp;&nbsp;  <i class="fa fa-calendar"></i>&nbsp;May 2014 - August 2014
 <br>
-&nbsp;&nbsp;  Advisor: Dr. Britnee Veldman
+&nbsp;&nbsp;  Advisor: Dr. Brittnee Veldman
 
 * Taught to prepare solutions and analyze data using MS Excel
 * Developed a laboratory teaching protocol in enzyme kinetics for an upper division physical chemistry course

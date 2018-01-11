@@ -5,12 +5,12 @@ category: Research
 title: Dueber Lab
 description: |
 ---
-&nbsp;&nbsp;  <i class="fa fa-briefcase alt-font"></i>&nbsp;UC Berkeley Department of Bioengineering
+&nbsp;&nbsp;  <i class="fa fa-university alt-font"></i>&nbsp;UC Berkeley Department of Bioengineering
 <br>
 &nbsp;&nbsp;  <i class="fa fa-calendar"></i>&nbsp;January 2017 - Present
 <br>
 &nbsp;&nbsp;  Advisor: Dr. Jennifer Samson
 
-* Spring 2017:
-* Summer 2017:
-* Fall 2017:
+* Spring 2017: Characterized a comparator device for antithetic integral feedback in *S. cerevisiae*
+* Summer 2017: Optimized the comparator by testing new synthetic transcription factors. Developed a Python-based tool to aid in CRISPR assembly using Cas9 gRNA-acceptor vectors.
+* Fall 2017: Designed and built yeast strains to test *in silico* feedback for optimal on-pathway flux of the BIA pathway.

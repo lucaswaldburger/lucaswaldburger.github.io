@@ -9,6 +9,6 @@ description: |
 <br>
 &nbsp;&nbsp;  <i class="fa fa-calendar"></i>&nbsp;May 2014 - August 2014
 
-* Taught singe-variable calculus to financially disadvantaged and academically underrepresented students from Extended Opportunity Programs and Services (EOPS)
+* Taught singe-variable calculus to students from Extended Opportunity Programs and Services (EOPS)
 * Reviewed concepts from the course and helped with problem sets
 * Prepared students for exams
