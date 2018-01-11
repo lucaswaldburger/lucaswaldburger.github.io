@@ -16,3 +16,4 @@ description: |
 * Fall 2017: Designed and built yeast strains to test *in silico* feedback for optimal on-pathway flux of the BIA pathway.
 <br><br>
 <a href="http://lucaswaldburger.me/rsc/20170530_poster.pdf" target="_blank" class="btn btn-default btn-custom-2"> Poster #1</a>
+<a href="http://lucaswaldburger.me/rsc/20180110_poster.pdf" target="_blank" class="btn btn-default btn-custom-2"> Poster #2</a>
