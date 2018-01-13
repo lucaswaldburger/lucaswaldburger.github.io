@@ -9,7 +9,7 @@ description: |
 <br>
 &nbsp;&nbsp;  <i class="fa fa-calendar"></i>&nbsp;August 2013 - May 2014
 
-* Compiled notes and prepared study guides for the Disability Services and Programs for Students (DSPS) and Extended Opportunity Programs and Services (EOPS).
+* Compiled notes and prepared study guides for Disability Services and Programs for Students (DSPS) and Extended Opportunity Programs and Services (EOPS)
 * Courses:
     * Introduction to Psychology
     * Calculus with Analytic Geometry I

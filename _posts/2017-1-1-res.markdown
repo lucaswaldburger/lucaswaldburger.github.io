@@ -12,5 +12,5 @@ description: |
 &nbsp;&nbsp;  Advisor: Andrew Ng (PhD Candidate)
 
 * Spring 2017: Built yeast strains to test antithetic integral feedback
-* Summer 2017: Tested a new HIS auxotrophy marker from *C. glabrata* that did not lead to a growth defect compared to native version.
-* Fall 2017: Designed a new CRISPR knock-in approach to build strains for control of the mating pathway in budding yeast.
+* Summer 2017: Built and tested a new plasmid backbone containg a HIS auxotrophy marker from *C. glabrata* that did not lead to a growth defect &mdash; unlike the previous version used in lab
+* Fall 2017: Designed a new CRISPR knock-in approach to build strains for control of the mating pathway in budding yeast

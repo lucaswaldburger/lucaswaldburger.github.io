@@ -11,5 +11,5 @@ description: |
 <br>
 &nbsp;&nbsp;  Advisor: Emily Wonder (PhD Candidate in the Safinya Group)
 
-* Analyzed the transfection efficiency of DNA-lipid complexes as drug delivery vehicles using fluorescent microscopy. 
-* Collaborated with graduate students and presented findings to a panel of researchers.
+* Analyzed the transfection efficiency of DNA-lipid complexes as drug delivery vehicles using fluorescent microscopy
+* Collaborated with graduate students and presented findings to a panel of researchers

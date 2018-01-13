@@ -11,6 +11,6 @@ description: |
 <br>
 &nbsp;&nbsp;  Advisor: Dr. Sucha Parmar
 
-* Prepared atmospheric sampling devices for analysis of volatile organic compounds in the San Joaquin Valley.
-* Responsible for taking inventory of received samples and following chain of custody.
-* Trained to interpret IR and NMR spectra as well as run GS-MS analysis.
+* Prepared atmospheric sampling devices for analysis of volatile organic compounds in the San Joaquin Valley
+* Responsible for taking inventory of received samples and following chain of custody
+* Trained to interpret IR and NMR spectra as well as run GS-MS analysis

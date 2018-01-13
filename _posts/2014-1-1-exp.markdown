@@ -11,4 +11,4 @@ description: |
 
 * Taught singe-variable calculus to students from Extended Opportunity Programs and Services (EOPS)
 * Reviewed concepts from the course and helped with problem sets
-* Prepared students for exams
+* Prepared students for exams with review sessions
