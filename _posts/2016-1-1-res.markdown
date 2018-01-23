@@ -11,4 +11,4 @@ description: |
 <br>
 <!--&nbsp;&nbsp;  Advisor: Dr. Hao Li-->
 
-* Fall 2016: Measured lifespan and cellular phenotypes in single budding yeast cells using microfluidic devices. Analyzing results by applying concepts from computational biology and bioinformatics
+* Fall 2016: Measured lifespan and cellular phenotypes in single budding yeast cells using microfluidic devices. Analyzing results by applying concepts from computational biology and bioinformatics. Worked with Chinese researchers to revise publication manuscripts and conference presentations.
