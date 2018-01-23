@@ -9,7 +9,7 @@ description: |
 <br>
 &nbsp;&nbsp;  <i class="fa fa-calendar"></i>&nbsp;January 2017 - Present
 <br>
-&nbsp;&nbsp;  Advisor: Andrew Ng (PhD Candidate)
+<!--&nbsp;&nbsp;  Advisor: Andrew Ng (PhD Candidate)-->
 
 * Spring 2017: Built yeast strains to test antithetic integral feedback
 * Summer 2017: Built and tested a new plasmid backbone containg a HIS auxotrophy marker from *C. glabrata* that did not lead to a growth defect &mdash; unlike the previous version used in lab

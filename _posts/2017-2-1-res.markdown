@@ -9,7 +9,7 @@ description: |
 <br>
 &nbsp;&nbsp;  <i class="fa fa-calendar"></i>&nbsp;January 2017 - Present
 <br>
-&nbsp;&nbsp;  Advisor: Dr. Jennifer Samson
+<!--&nbsp;&nbsp;  Advisor: Dr. Jennifer Samson-->
 
 * Spring 2017: Characterized a comparator device for antithetic integral feedback in budding yeast
 * Summer 2017: Optimized the comparator by testing new synthetic transcription factors. Tested Cas9 gRNA-acceptor vectors for quick design and assembly. Used the new CRISPR system to make knockout strains of a CPR in the BIA pathway
