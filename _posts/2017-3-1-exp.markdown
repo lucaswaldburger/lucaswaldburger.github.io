@@ -1,6 +1,6 @@
 ---
 layout: default
-img: ucb_coc.png
+img: ucb_seal.png
 category: Experiences
 title: Biophysical Chemistry Teaching Assistant
 description: |
