@@ -7,7 +7,7 @@ description: |
 ---
 &nbsp;&nbsp;  <i class="fa fa-university alt-font"></i>&nbsp;UCSF Department of Biochemistry
 <br>
-&nbsp;&nbsp;  <i class="fa fa-calendar"></i>&nbsp;January 2017 - Present
+&nbsp;&nbsp;  <i class="fa fa-calendar"></i>&nbsp;September 2016 - February 2017
 <br>
 <!--&nbsp;&nbsp;  Advisor: Dr. Hao Li-->
 
