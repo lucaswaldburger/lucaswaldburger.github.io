@@ -1,16 +1,15 @@
+
 ---
 layout: default
-img: ucsf_synbio.png
+img: igi.png
 category: Research
-title: El-Samad Lab
+title: Savage Lab & Doudna Lab
 description: |
 ---
-&nbsp;&nbsp;  <i class="fa fa-university alt-font"></i>&nbsp;UCSF Department of Biochemistry
+&nbsp;&nbsp;  <i class="fa fa-university alt-font"></i>&nbsp;UC Berkeley Innovative Genomics Institute
 <br>
-&nbsp;&nbsp;  <i class="fa fa-calendar"></i>&nbsp;January 2017 - Present
+&nbsp;&nbsp;  <i class="fa fa-calendar"></i>&nbsp;October 2017 - December 2017
 <br>
-<!--&nbsp;&nbsp;  Advisor: Andrew Ng (PhD Candidate)-->
+<!--&nbsp;&nbsp;  Advisor: Dr. Benjamin Oakes-->
 
-* Spring 2017: Built yeast strains to test antithetic integral feedback.
-* Summer 2017: Built and tested a new plasmid backbone containg a HIS auxotrophy marker from *C. glabrata* that did not lead to a growth defect &mdash; unlike the previous version used in lab.
-* Fall 2017: Designed a new CRISPR knock-in approach to build strains for control of the mating pathway in budding yeast.
+* Fall 2017: Taught an undergraduate how to use Golden Gate Assembly to build Cas9 plasmids and perform yeast transformations. Helped with CRISPR protein engineering by developing a library of CasX variants in budding yeast.
