@@ -1,19 +1,16 @@
 ---
 layout: default
-img: ucb_eng.png
+img: ucsf_synbio.png
 category: Research
-title: Dueber Lab
+title: El-Samad Lab
 description: |
 ---
-&nbsp;&nbsp;  <i class="fa fa-university alt-font"></i>&nbsp;UC Berkeley Department of Bioengineering
+&nbsp;&nbsp;  <i class="fa fa-university alt-font"></i>&nbsp;UCSF Department of Biochemistry
 <br>
 &nbsp;&nbsp;  <i class="fa fa-calendar"></i>&nbsp;January 2017 - Present
 <br>
-<!--&nbsp;&nbsp;  Advisor: Dr. Jennifer Samson-->
+<!--&nbsp;&nbsp;  Advisor: Andrew Ng (PhD Candidate)-->
 
-* Spring 2017: Characterized a comparator device for antithetic integral feedback in budding yeast.
-* Summer 2017: Optimized the comparator by testing new synthetic transcription factors. Tested Cas9 gRNA-acceptor vectors for quick design and assembly. Used the new CRISPR system to make knockout strains of a CPR in the BIA pathway.
-* Fall 2017: Designed, built, and tested yeast strains for optimal on-pathway flux of the BIA pathway.
-<br><br>
-<a href="http://lucaswaldburger.me/rsc/20170530_poster.pdf" target="_blank" class="btn btn-default btn-custom-2"> Poster #1</a>
-<a href="http://lucaswaldburger.me/rsc/20180110_poster.pdf" target="_blank" class="btn btn-default btn-custom-2"> Poster #2</a>
+* Spring 2017: Built yeast strains to test antithetic integral feedback.
+* Summer 2017: Built and tested a new plasmid backbone containg a HIS auxotrophy marker from *C. glabrata* that did not lead to a growth defect &mdash; unlike the previous version used in lab.
+* Fall 2017: Designed a new CRISPR knock-in approach to build strains for control of the mating pathway in budding yeast.
