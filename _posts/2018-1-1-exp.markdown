@@ -1,6 +1,6 @@
 ---
 layout: default
-img: ucb_seal.png
+img: ucb_eng.png
 category: Experiences
 title: Bioengineering Committee Member
 description: |
