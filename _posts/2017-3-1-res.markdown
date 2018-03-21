@@ -1,6 +1,6 @@
 ---
 layout: default
-img: ucb_eng.png
+img: ebi.png
 category: Research
 title: Dueber Lab
 description: |
