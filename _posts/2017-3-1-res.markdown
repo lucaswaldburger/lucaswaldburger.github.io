@@ -15,5 +15,7 @@ description: |
 * Summer 2017: Optimized the comparator by testing new synthetic transcription factors. Tested Cas9 gRNA-acceptor vectors for quick design and assembly. Used the new CRISPR system to make knockout strains of a CPR in the BIA pathway.
 * Fall 2017: Designed, built, and tested yeast strains for optimal on-pathway flux of the BIA pathway.
 <br><br>
+<!--
 <a href="http://lucaswaldburger.me/rsc/20170530_poster.pdf" target="_blank" class="btn btn-default btn-custom-2"> Poster #1</a>
 <a href="http://lucaswaldburger.me/rsc/20180110_poster.pdf" target="_blank" class="btn btn-default btn-custom-2"> Poster #2</a>
+-->
