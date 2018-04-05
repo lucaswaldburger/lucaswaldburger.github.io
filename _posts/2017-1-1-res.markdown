@@ -1,3 +1,4 @@
+<!--
 ---
 layout: default
 img: igi.png
@@ -10,5 +11,7 @@ description: |
 &nbsp;&nbsp;  <i class="fa fa-calendar"></i>&nbsp;October 2017 - December 2017
 <br>
 <!--&nbsp;&nbsp;  Advisor: Dr. Benjamin Oakes-->
-
+<!--
 * Fall 2017: Taught an undergraduate how to use Golden Gate Assembly to build Cas9 plasmids and perform yeast transformations. Helped with CRISPR protein engineering by developing a library of CasX variants in budding yeast.
+
+-->
