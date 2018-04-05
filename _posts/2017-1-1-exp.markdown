@@ -1,3 +1,4 @@
+<!-- 
 ---
 layout: default
 img: biohub.jpg
@@ -12,3 +13,5 @@ description: |
 &nbsp;&nbsp;  Advisor: Dr. Joe DeRisi
 * Processed mouse samples from Stanford labs working on the Cell Atlas Project
 * Wrote automation programs to process data from the Cell Atlas Project
+-->
+
