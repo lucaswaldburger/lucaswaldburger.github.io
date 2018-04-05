@@ -5,7 +5,7 @@ category: Research
 title: Li Lab
 description: |
 ---
-&nbsp;&nbsp;  <i class="fa fa-university alt-font"></i>&nbsp;UCSF Department of Biochemistry
+&nbsp;&nbsp;  <i class="fa fa-university alt-font"></i>&nbsp;UCSF Department of Biochemistry and Biophysics
 <br>
 &nbsp;&nbsp;  <i class="fa fa-calendar"></i>&nbsp;September 2016 - January 2017
 <br>
