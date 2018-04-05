@@ -1,3 +1,4 @@
+<!--
 ---
 layout: default
 img: ucsf_synbio.png
@@ -14,3 +15,4 @@ description: |
 * Spring 2017: Built yeast strains to test antithetic integral feedback.
 * Summer 2017: Built and tested a new plasmid backbone containing a HIS auxotrophy marker from *C. glabrata* that did not lead to a growth defect &mdash; unlike the previous version used in lab.
 * Fall 2017: Designed a new CRISPR knock-in approach to build strains for control of the mating pathway in budding yeast.
+-->
