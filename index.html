@@ -5,4 +5,51 @@ head: Lucas Waldburger
 author: Lucas Waldburger
 description: Senior Undergraduate at UC Berkeley
 --- -->
-<html><h1>Currently being updated!</h1></html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="//fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">
+
+    <meta charset="UTF-8">
+    <title>{% block title %}LW Tools{% endblock %}</title>
+
+    {% load staticfiles %}
+    <link rel="shortcut icon" type="image/png" href="{%  static 'icon.ico' %}"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="{% static 'music/style.css' %}"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+    <script src="{% static 'music/js/main.js' %}"></script>
+</head>
+<body>
+<nav class="navbar navbar-inverse">
+    <div class="container-fluid">
+
+        <!-- Header -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#topNavBar">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">Viberr2</a>
+        </div>
+
+        <!-- Items -->
+        <div class="collapse navbar-collapse" id="topNavBar">
+            <ul class="nav navbar-nav">
+                <li class="{% block albums_active %}{% endblock %}"><a href="#"><span class="glyphicon glyphicon-scissors" aria-hidden="true"></span>&nbsp; CRISPR</a></li>
+                <li class="{% block songs_active %}{% endblock %}"><a href=""><span class="glyphicon glyphicon-list-alt" aria-hidden="true"></span>&nbsp; BuildInstructions</a></li>
+                <li class="#"><a href=""><span class="glyphicon glyphicon-stats" aria-hidden="true"></span>&nbsp; Hide N Seq</a></li>
+
+            </ul>
+        </div>
+
+    </div>
+</nav>
+{% block body %}
+{% endblock %}
+</body>
+</html>
+
