@@ -27,9 +27,9 @@ social:
   - icon: envelope
     title: email
     url: mailto:lwaldburger@berkeley.edu
-  - icon: file-pdf-o
-    title: resume
-    url: http://www.lucaswaldburger.me/rsc/resume.pdf
+#   - icon: file-pdf-o
+#     title: resume
+#     url: http://www.lucaswaldburger.me/rsc/resume.pdf
   - icon: linkedin
     title: linkedin
     url: https://www.linkedin.com/in/lucaswaldburger
