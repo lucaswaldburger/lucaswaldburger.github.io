@@ -25,7 +25,7 @@
     <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
 
     <!-- Custom Logo for Icon Shortcut-->
-    <link rel="shortcut icon"
+    <link rel="icon"
           href="https://raw.githubusercontent.com/lucaswaldburger/lucaswaldburger.github.io/master/img/logo/icon.ico">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -145,64 +145,7 @@ Hello, my name is Lucas Waldburger and I am a UC Berkeley graduate conducting re
 	   </div>
     </div>
 </section>     
-<!-- End About -->   
-    
-<!-- Start Experience -->
-<section id="experience">
-        <div class="content-section-b">
-            <div class="container">
-                <div class="row">
-                    <h2 class="category-heading alt-font">Experience</h2>
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
-                </div>
-                {% for post in site.posts%}
-                {% if post.category contains 'Experiences'%}
-                    <div class="row">
-                    <div class="col-xs-8 wow fadeInLeft">
-                        <h2 class="section-heading">{{ post.title }}</h2>         
-                        <div class="lead">{{ post.content }}</div>
-                    </div>
-                    <div class="col-xs-2 col-xs-offset-2 wow fadeInRight">
-                        <h2 class="section-heading">&nbsp</h2>
-                        <img class="img-responsive" src="img/experience/{{ post.img }}">
-                    </div>
-                    </div>
-                {% endif %}
-                {% endfor %}
-            </div>
-        </div>
-</section>
-<!-- End Experience -->
-    
-<!-- Start Research -->
-<section id="research">
-        <div class="content-section-b">
-            <div class="container">
-                <div class="row">
-                    <h2 class="category-heading alt-font">Research</h2>
-                    <hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
-                </div>
-                {% for post in site.posts%}
-                {% if post.category contains 'Research'%}
-                    <div class="row">
-                    <div class="col-xs-8 wow fadeInLeft">
-                        <h2 class="section-heading">{{ post.title }}</h2>         
-                        <div class="lead">{{ post.content }}</div>
-                    </div>
-    
-                    <div class="col-xs-2 col-xs-offset-2 wow fadeInRight">
-                        <h2 class="section-heading">&nbsp</h2>
-                        <img class="img-responsive" src="img/research/{{ post.img }}">
-                    </div>
-                    </div>
-                {% endif %}
-                {% endfor %}
-            </div>
-        </div>
-</section> 
-<!-- End Research -->      
+<!-- End About -->       
    
 <!-- Start Projects -->
 <section id="projects">
