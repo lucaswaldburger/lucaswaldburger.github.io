@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <!-- Start Head -->
-<head>
+	<head>
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -12,17 +13,42 @@
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
+	
     <link href="css/animate.css" rel="stylesheet">
+
+
+    <!-- Custom CSS -->
     <link href="css/landing-page.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <script src="https://use.fontawesome.com/071362647b.js"></script>
     <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+
+    <!-- Custom Logo for Icon Shortcut-->
     <link rel="shortcut icon"
           href="https://raw.githubusercontent.com/lucaswaldburger/lucaswaldburger.github.io/master/img/logo/icon.ico">
 
-    <script src="https://use.fontawesome.com/071362647b.js"></script>
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Instafeed.js -->
+    <script type="text/javascript" src="js/instafeed.min.js"></script>
+
+    <!-- particles.js -->
     <script type="text/javascript" src="js/particles.js"></script>
+	
+<!--     <script type="text/javascript" src="js/counter.js"></script> -->
     <script src="./js/jquery-1.11.0.min.js"></script>
     <script src="./js/bootstrap.min.js"></script>
-    <script src="./js/grid.js"></script>
+	
+	
+		<script src="./js/grid.js"></script>
+<!-- 	<script src="./js/custom.js"></script>
+ -->
 	<script src="./js/jquery.waypoints.js"></script>
 	<script src="./js/wow.min.js"></script>
 	<script src="./js/jquery.backstretch.min.js"></script>
@@ -32,12 +58,38 @@
 	<script src="./js/jquery.countTo.js"></script>
 	<script src="./js/modernizr.custom.js"></script>
 	<script src="./js/smoothscroll.js"></script>
+
 </head>
 
 <!-- End Head -->
-	
     
 <body>
+<!-- Start Navigation -->
+<nav class="navbar navbar-default navbar-fixed-top alt-font" role="navigation">
+				<div class="container">
+					<!-- Brand and toggle get grouped for better mobile display -->
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<a class="navbar-brand" href="#home">{{ page.head}}</a>
+					</div>
+					<!-- Collect the nav links, forms, and other content for toggling -->
+					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+						<ul class="nav navbar-nav navbar-right">
+							<li><a href="#about">About</a></li>
+							<li><a href="#experience">Experience</a></li>
+							<li><a href="#research">Research</a></li>
+							<li><a href="#projects">Projects</a></li>
+						</ul>
+					</div>
+				</div>
+			</nav>
+<!-- End Navigation -->
+
 <!-- Start Header -->    
 <section id="home">
     <div id="particles-js">
@@ -54,6 +106,7 @@
                             <div class="social-click">
                                 <ul class="list-inline intro-social-buttons">
                                     {% for social in site.social %}
+                                    <!--<li class="display-inline"><a href="{{ social.url }}" target="_blank" ><font color="white"><i class="fa fa-{{ social.icon }} fa-2x"></i></font></a></li>-->
                                     <li>
                                         <a href="{{ social.url }}" target="_blank" class="btn btn-default"><i
                                                 class="fa fa-{{ social.icon }}"></i> &nbsp <span class="network-name">{{ social.title }}</span></a>
@@ -70,9 +123,146 @@
 </section>
 <!-- End Header -->
     
+<!-- Start About -->
+<section id="about">
+	<div class="content-section-b">
+	    <div class="container">
+	        <div class="row">
+	            <h2 class="category-heading alt-font wow fadeIn">About</h2>
+	            <hr class="section-heading-spacer wow fadeIn">
+	            <div class="clearfix"></div>
+                <!-- Start Profile -->
+                        <div class="col-xs-4 wow fadeInLeft" style="visibility: hidden; animation-name: none;">
+                            <img src="./img/profile.jpg" alt="" class="img-responsive">
+						</div>
+						<div class="col-xs-8 wow fadeInInRight lead" style="visibility: hidden; animation-name: none;">
+							<p>
+                            <br>    
+                            Hello, my name is Lucas Waldburger and I am a student at UC Berkeley conducting research in the Department of Bioengineering. Over the past few years I have had the opportunity to work with several incredible mentors that have enabled me to make the most of my education. I take my work very seriously since I am financially independent and have relied largely on scholarships to pay for college. Nevertheless, I enjoy teaching financially disadvantaged and academically underrepresented students using my native proficiency in Spanish. I also enjoy training for triathlons and recently completed my first marathon. I hope you enjoy my personal website and thank you for visiting!    
+                            </p>
+						</div>
+                <!-- End Profile -->
+            </div>
+	   </div>
+    </div>
+</section>     
+<!-- End About -->   
+    
+<!-- Start Experience -->
+<section id="experience">
+        <div class="content-section-b">
+            <div class="container">
+                <div class="row">
+                    <h2 class="category-heading alt-font">Experience</h2>
+                    <hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                </div>
+                {% for post in site.posts%}
+                {% if post.category contains 'Experiences'%}
+                    <div class="row">
+                    <div class="col-xs-8 wow fadeInLeft">
+                        <h2 class="section-heading">{{ post.title }}</h2>         
+                        <div class="lead">{{ post.content }}</div>
+                    </div>
+                    <div class="col-xs-2 col-xs-offset-2 wow fadeInRight">
+                        <h2 class="section-heading">&nbsp</h2>
+                        <img class="img-responsive" src="img/experience/{{ post.img }}">
+                    </div>
+                    </div>
+                {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+</section>
+<!-- End Experience -->
+    
+<!-- Start Research -->
+<section id="research">
+        <div class="content-section-b">
+            <div class="container">
+                <div class="row">
+                    <h2 class="category-heading alt-font">Research</h2>
+                    <hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                </div>
+                {% for post in site.posts%}
+                {% if post.category contains 'Research'%}
+                    <div class="row">
+                    <div class="col-xs-8 wow fadeInLeft">
+                        <h2 class="section-heading">{{ post.title }}</h2>         
+                        <div class="lead">{{ post.content }}</div>
+                    </div>
+    
+                    <div class="col-xs-2 col-xs-offset-2 wow fadeInRight">
+                        <h2 class="section-heading">&nbsp</h2>
+                        <img class="img-responsive" src="img/research/{{ post.img }}">
+                    </div>
+                    </div>
+                {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+</section> 
+<!-- End Research -->      
+   
+<!-- Start Projects -->
+<section id="projects">
+        <div class="content-section-b">
+            <div class="container">
+                <div class="row">
+                    <h2 class="category-heading alt-font">Projects</h2>
+                    <hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                </div>
+                {% for post in site.posts%}
+                {% if post.category contains 'Projects'%}
+                    <div class="row">
+                    <div class="col-xs-8 wow fadeInLeft">
+                        <h2 class="section-heading">{{ post.title }}</h2>         
+                        <div class="lead">{{ post.content }}</div>
+                    </div>
+    
+                    <div class="col-xs-4 wow fadeInRight">
+                        <h2 class="section-heading">&nbsp</h2>
+                        <img class="img-responsive" src="img/projects/{{ post.img }}">
+                    </div>
+                    </div>
+                {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+</section>  
+<!-- End Projects -->  
+    
 <!-- Start Footer -->
 <footer>
     <div class="container alt-font">
+<!--         <div class="row">
+            <div class="col-md-8">
+                <ul class="list-inline">
+                     <li>
+                        <a class="page-scroll" href="#home">Home</a>
+                    </li>
+                    <li class="footer-menu-divider">&sdot;</li>
+                    <li>
+                        <a class="page-scroll" href="#about">About</a>
+                    </li>
+                    <li class="footer-menu-divider">&sdot;</li>
+                    <li>
+                        <a class="page-scroll" href="#experience">Experience</a>
+                    </li>
+                    <li class="footer-menu-divider">&sdot;</li>
+                    <li>
+                        <a class="page-scroll" href="#research">Research</a>
+                    </li>
+                    <li class="footer-menu-divider">&sdot;</li>
+                    <li>
+                        <a class="page-scroll" href="#projects">Projects</a>
+                    </li> 
+                </ul>
+                <br>
+            </div>
+        </div> -->
         <div align="center" class="row">
             <p class="copyright text-muted small">Copyright &copy; {{ site.title }} 2018. All Rights Reserved.</p>
             <p class="copyright text-muted small">Last updated January 2018.</p>
