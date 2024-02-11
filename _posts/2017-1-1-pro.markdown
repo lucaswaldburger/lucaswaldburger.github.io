@@ -1,9 +1,0 @@
----
-layout: default
-img: python_module_2.png
-category: Projects
-title: Wet Lab Analysis using Python Curriculum
-description: |
----
-
-My mentor from the El-Samad Lab had put together several Python scripts that significantly reduced the amount of time required to analyze TECAN data; however, many of the researchers in the Dueber Lab did not know how to use Python. In order to increase accessibility to these great tools, I put together a teaching module in Python based on sections from the first course that computer science majors take at UC Berkeley &mdash; CS61A: Structure and Interpretation of Computer Programs. I gave concepts from the course an application to wet lab tasks in order for the sections to resonate with the user and seem applicable to their daily work. The curriculum also taught the user how to use Jupyter Notebook, the Lab Website, and Benchling for designing guide RNAs in CRISPR assembly design, which I helped automate later in the summer.

@@ -1,9 +1,0 @@
----
-layout: default
-img: cellbio.png
-category: Projects
-title: MATLAB Applet for Cell Biology Lab
-description: |
----
-
-The first lab report in Cell Biology asked for manual calculation of retention factors for each amino acid from a single TLC plate. I worked on a MATLAB-based application, with a Professor of Electrical Engineering, that would minimize the amount of formatting required for the lab report. First, the user fills in a table of each amino acid name and distance moved by solute. Second, the user inputs the distance traveled by solvent and the threshold they wish to use in separating hydrophobic and hydrophilic amino acids. From this information, the corresponding amino acid abbreviation and molecular weight is inferred, and the retention factor is calculated. The data set is then projected on a graph and fitted to a line to show the trend of retention factor with respect to molecular weight.
