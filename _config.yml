@@ -1,0 +1,31 @@
+title: Lucas Waldburger
+position: PhD Student
+affiliation: UC Berkeley
+email: lwaldburger [at] berkeley.edu
+
+google_scholar: https://scholar.google.com/citations?hl=en&user=v26ZPFEAAAAJ
+github_link: https://github.com/lucaswaldburger
+linkedin: https://www.linkedin.com/in/lucaswaldburger/
+twitter: https://x.com/LucasWaldburger
+
+avatar: ./assets/img/avatar.png
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
+
+enable_footnote: false
+auto_dark_mode: true
+
+font: "Serif"
+
+remote_theme: yaoyao-liu/minimal-light
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - README_zh_Hans.md
+  - README_zh_Hant.md
+  - README_de.md
+  - LICENSE
+  - minimal-light.gemspec
+  - html_source_file/
