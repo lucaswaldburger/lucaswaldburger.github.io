@@ -6,14 +6,14 @@ email: lwaldburger (at) berkeley.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-# keywords: minimal light
-# description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+keywords: Lucas Waldburger, machine learning, synthetic biology, bioengineering, UC Berkeley, active learning, computational biology, protein engineering
+description: Lucas Waldburger — PhD candidate in Bioengineering at UC Berkeley working at the intersection of machine learning and synthetic biology.
 # canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?hl=en&user=v26ZPFEAAAAJ
-# cv_link: assets/files/curriculum_vitae.pdf
+# cv_link: assets/files/curriculum_vitae.pdf  # hidden for now — re-enable once an updated CV PDF is in place
 github_link: https://github.com/lucaswaldburger
 linkedin: https://www.linkedin.com/in/lucaswaldburger
 twitter: https://twitter.com/lucaswaldburger

@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Local tooling
+.claude/
+
+# Ruby / Jekyll
+.bundle/
+vendor/
+.jekyll-cache/
+.jekyll-metadata

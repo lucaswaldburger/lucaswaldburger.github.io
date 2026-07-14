@@ -1,22 +1,115 @@
-# main:
+main:
 
-  # - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-  #   authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-  #   conference_short: MICCAI
-  #   conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-  #   pdf: https://arxiv.org/pdf/2306.00988.pdf
-  #   code: https://github.com/MrGiovanni/ContinualLearning
-  #   bibtex: https://bib.yliu.me/MICCAI23.txt
-  #   image: ./assets/img/teaser_example_2.png
-  #   notes: Early Accept
+  - title: "Active learning enables discovery of transcriptional activators across fungal evolutionary space"
+    authors: <strong>L. M. Waldburger</strong>, H. Nisonoff, M. Zintel, et al.
+    conference_short: bioRxiv
+    conference_short_2: NeurIPS Workshop
+    conference: bioRxiv preprint, 2025.
+    pdf: https://www.biorxiv.org/content/10.1101/2025.09.12.675635v1
+    image: ./assets/img/pubs/active-learning-fungal.jpg
+    tags:
+      - Machine Learning
+      - Synthetic Biology
+    notes: First author
 
-  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  #   conference_short: CVPR
-  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
-  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   notes: Oral Presentation
-  #   image: ./assets/img/teaser_example.png
+  - title: "Multiplexed profiling of transcriptional regulators in plant cells"
+    authors: S. Alamos<sup>*</sup>, <strong>L. M. Waldburger<sup>*</sup></strong>, A. Dee, L. A. Owens, R. Rattan, S. Ong, P. M. Shih
+    conference_short: Nature Biotech
+    conference: Nature Biotechnology, 2025.
+    pdf: https://www.nature.com/articles/s41587-025-02880-w
+    image: ./assets/img/pubs/multiplexed-tf-plant.jpg
+    tags:
+      - Machine Learning
+      - Synthetic Biology
+    notes: Co-first author
+
+  - title: "Hierarchical Generative Agents for Simulating Sequential Human Behavior"
+    authors: M. G. Mendoza<sup>*</sup>, <strong>L. M. Waldburger<sup>*</sup></strong>, J. Lee, S. S. Sastry
+    conference_short: ICLR Workshop
+    conference: ICLR 2026 Workshop on Multi-Agent Learning &amp; Generative AI (MALGAI).
+    pdf: https://openreview.net/forum?id=MzeMSprSO5
+    image: ./assets/img/pubs/hierarchical-generative-agents.png
+    tags:
+      - Multi-Agent Systems
+    notes: Co-first author
+
+  - title: "Perspectives for self-driving labs in synthetic biology"
+    authors: H. García Martín, T. Radivojević, J. Zucker, &hellip;, <strong>L. M. Waldburger</strong>, et al.
+    conference_short: Curr Opin Biotech
+    conference: Current Opinion in Biotechnology, 2023.
+    pdf: https://doi.org/10.1016/j.copbio.2022.102881
+    image: ./assets/img/pubs/self-driving-labs.png
+    tags:
+      - Self-Driving Labs
+
+  - title: "Transcriptome architecture of the three main lineages of agrobacteria"
+    authors: <strong>L. M. Waldburger</strong>, M. G. Thompson, A. J. Weisberg, N. Lee, J. H. Chang, et al.
+    conference_short: mSystems
+    conference: mSystems, 2023.
+    pdf: https://journals.asm.org/doi/10.1128/msystems.00333-23
+    image: ./assets/img/pubs/agrobacteria-transcriptome.png
+    tags:
+      - Computational Biology
+      - Evolution
+    notes: First author
+
+  - title: "Binary vector copy number engineering improves Agrobacterium-mediated transformation"
+    authors: M. J. Szarzanowicz, <strong>L. M. Waldburger</strong>, M. Busche, G. M. Geiselman, et al.
+    conference_short: Nature Biotech
+    conference: Nature Biotechnology, 2025.
+    pdf: https://www.nature.com/articles/s41587-024-02462-2
+    image: ./assets/img/pubs/binary-vector-copy-number.png
+    tags:
+      - Synthetic Biology
+      - Directed Evolution
+    notes: Second author
+
+  - title: "Modular and tunable biological feedback control using a de novo protein switch"
+    authors: A. H. Ng, T. H. Nguyen, M. Gómez-Schiavon, &hellip;, <strong>L. M. Waldburger</strong>, et al.
+    conference_short: Nature
+    conference: Nature, 2019.
+    pdf: https://www.nature.com/articles/s41586-019-1425-7
+    image: ./assets/img/pubs/protein-switch-feedback.png
+    tags:
+      - Synthetic Biology
+      - Feedback Control
+
+  - title: "Molecular hallmarks of heterochronic parabiosis at single-cell resolution"
+    authors: R. Pálovics, A. Keller, N. Schaum, &hellip;, <strong>L. M. Waldburger</strong>, et al.
+    conference_short: Nature
+    conference: Nature, 2022.
+    pdf: https://www.nature.com/articles/s41586-022-04461-2
+    image: ./assets/img/pubs/parabiosis-singlecell.png
+    tags:
+      - Computational Biology
+    notes: Tabula Muris Consortium
+
+  - title: "A single-cell transcriptomic atlas characterizes ageing tissues in the mouse"
+    authors: The Tabula Muris Consortium (incl. <strong>L. M. Waldburger</strong>)
+    conference_short: Nature
+    conference: Nature, 2020.
+    pdf: https://www.nature.com/articles/s41586-020-2496-1
+    image: ./assets/img/pubs/tabula-muris-senis.png
+    tags:
+      - Computational Biology
+    notes: Tabula Muris Consortium
+
+  - title: "Single-cell transcriptomics of 20 mouse organs creates a Tabula Muris"
+    authors: The Tabula Muris Consortium (incl. <strong>L. M. Waldburger</strong>)
+    conference_short: Nature
+    conference: Nature, 2018.
+    pdf: https://www.nature.com/articles/s41586-018-0590-4
+    image: ./assets/img/pubs/tabula-muris.png
+    tags:
+      - Computational Biology
+    notes: Tabula Muris Consortium
+
+  - title: "Diversity-driven biochemical survey reveals dimeric structural origin of rubisco"
+    authors: A. J. Kehl, L. Taylor-Kearney, A. L. Jaffe, J. H. Pereira, J. Lee, M. Hammel, &hellip;, <strong>L. M. Waldburger</strong>, et al.
+    conference_short: Nature Comm
+    conference: Nature Communications, 2026.
+    pdf: https://www.nature.com/articles/s41467-026-73982-5
+    image: ./assets/img/pubs/rubisco-dimeric.png
+    tags:
+      - Computational Biology
+      - Evolution

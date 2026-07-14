@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: "en-US" }}" data-theme="signal">
   <head>
     <title>{{ site.title }} | {{site.affiliation}}</title>
 
@@ -46,7 +46,7 @@
         <h1>{{ site.title }}</h1>
 
         {% if site.position %}
-        <position style="font-size:1.10rem;">{{ site.position }}</position>
+        <position>{{ site.position }}</position>
         <br>
         {% endif %}
         {% if site.affiliation %}
@@ -113,6 +113,11 @@
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <!-- Theme is fixed to "signal" (Modern) via data-theme on <html>. The "refined"
+         (Navy) and "editorial" (Warm) palettes are still defined in
+         _sass/minimal-light.scss — switch by changing that data-theme value, or
+         re-enable the live preview switcher by uncommenting the line below. -->
+    <!-- <script src="{{ "/assets/js/theme-switcher.js" | relative_url }}"></script> -->
     {% if site.google_analytics %}
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
