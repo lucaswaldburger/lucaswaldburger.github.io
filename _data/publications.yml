@@ -38,9 +38,9 @@ main:
     conference_short: Curr Opin Biotech
     conference: Current Opinion in Biotechnology, 2023.
     pdf: https://doi.org/10.1016/j.copbio.2022.102881
-    image: ./assets/img/pubs/self-driving-labs.png
+    image: ./assets/img/pubs/self-driving-labs.jpg
     tags:
-      - Self-Driving Labs
+      - Autonomous Labs
 
   - title: "Transcriptome architecture of the three main lineages of agrobacteria"
     authors: <strong>L. M. Waldburger</strong>, M. G. Thompson, A. J. Weisberg, N. Lee, J. H. Chang, et al.
