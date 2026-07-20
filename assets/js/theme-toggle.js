@@ -1,13 +1,13 @@
 /* Light/dark mode toggle.
    The initial mode is set before paint by the inline script in the <head>
-   (defaults to dark). This wires the button: it flips data-mode on <html>,
+   (defaults to light). This wires the button: it flips data-mode on <html>,
    persists the choice to localStorage, and keeps the icon + ARIA state in sync. */
 (function () {
   var btn = document.getElementById('mode-toggle');
   if (!btn) return;
 
   function current() {
-    return document.documentElement.getAttribute('data-mode') === 'light' ? 'light' : 'dark';
+    return document.documentElement.getAttribute('data-mode') === 'dark' ? 'dark' : 'light';
   }
 
   function render(mode) {

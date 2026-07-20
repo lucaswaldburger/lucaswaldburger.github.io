@@ -50,8 +50,9 @@ html[data-theme="signal"] {
   --title-size: 1.02rem;
 }
 
-/* ---- Dark (the site's default; switchable via the toggle, which sets
-        data-mode="light" | "dark" on <html> and persists to localStorage) --- */
+/* ---- Dark (opt-in via the toggle, which sets data-mode="light" | "dark"
+        on <html> and persists the choice to localStorage; light is the
+        default, defined in the :root block above) ------------------------- */
 html[data-mode="dark"] {
   --bg: #20212b;
   --surface: #2b2d3a;
