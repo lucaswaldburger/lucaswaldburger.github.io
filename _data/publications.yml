@@ -6,6 +6,8 @@ main:
     conference_short_2: NeurIPS Workshop
     conference: bioRxiv preprint, 2025.
     pdf: https://www.biorxiv.org/content/10.1101/2025.09.12.675635v1
+    # code: https://github.com/lucaswaldburger/REPO      # add the public repo URL to show a "Code" button
+    # bibtex: /assets/files/bibtex/active-learning-fungal.txt   # add a .txt/.bib to show a "BibTeX" button
     image: ./assets/img/pubs/active-learning-fungal.jpg
     tags:
       - Machine Learning
@@ -74,6 +76,16 @@ main:
       - Synthetic Biology
       - Feedback Control
 
+  - title: "Diversity-driven biochemical survey reveals dimeric structural origin of rubisco"
+    authors: A. J. Kehl, L. Taylor-Kearney, A. L. Jaffe, J. H. Pereira, J. Lee, M. Hammel, &hellip;, <strong>L. M. Waldburger</strong>, et al.
+    conference_short: Nature Comm
+    conference: Nature Communications, 2026.
+    pdf: https://www.nature.com/articles/s41467-026-73982-5
+    image: ./assets/img/pubs/rubisco-dimeric.png
+    tags:
+      - Computational Biology
+      - Evolution
+
   - title: "Molecular hallmarks of heterochronic parabiosis at single-cell resolution"
     authors: R. Pálovics, A. Keller, N. Schaum, &hellip;, <strong>L. M. Waldburger</strong>, et al.
     conference_short: Nature
@@ -103,13 +115,3 @@ main:
     tags:
       - Computational Biology
     notes: Tabula Muris Consortium
-
-  - title: "Diversity-driven biochemical survey reveals dimeric structural origin of rubisco"
-    authors: A. J. Kehl, L. Taylor-Kearney, A. L. Jaffe, J. H. Pereira, J. Lee, M. Hammel, &hellip;, <strong>L. M. Waldburger</strong>, et al.
-    conference_short: Nature Comm
-    conference: Nature Communications, 2026.
-    pdf: https://www.nature.com/articles/s41467-026-73982-5
-    image: ./assets/img/pubs/rubisco-dimeric.png
-    tags:
-      - Computational Biology
-      - Evolution

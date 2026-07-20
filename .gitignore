@@ -9,3 +9,6 @@
 vendor/
 .jekyll-cache/
 .jekyll-metadata
+
+# Jekyll build output (GitHub Pages rebuilds this server-side)
+_site/

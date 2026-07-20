@@ -1,57 +1,61 @@
-# Basic Information 
+# Basic Information
 title: Lucas Waldburger
+author: Lucas Waldburger
 position: PhD Student
 affiliation: UC Berkeley
+affiliation_link: https://www.berkeley.edu
+# Email is deliberately shown in a split "(at)" form (not a mailto link) to deter scrapers.
 email: lwaldburger (at) berkeley.edu
 
-# Search Engine Optimization (SEO)
-# The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Lucas Waldburger, machine learning, synthetic biology, bioengineering, UC Berkeley, active learning, computational biology, protein engineering
-description: Lucas Waldburger — PhD candidate in Bioengineering at UC Berkeley working at the intersection of machine learning and synthetic biology.
-# canonical: https://minimal-light-theme.yliu.me/
+# Site URL (required for absolute links, social-share cards, sitemap, and canonical URLs)
+url: https://lucaswaldburger.github.io
+baseurl: ""
 
-# Links 
-# If you don't need one of them, you may delete the corresponding line.
+# Search Engine Optimization (SEO) / social sharing
+# `tagline` is the suffix jekyll-seo-tag appends to the homepage <title>
+# (→ "Lucas Waldburger | UC Berkeley"). It is NOT shown in the sidebar.
+tagline: UC Berkeley
+# `description` feeds the meta description, Open Graph, and Twitter cards
+# rendered by jekyll-seo-tag (see the `plugins` block below).
+description: Lucas Waldburger — PhD student in Bioengineering at UC Berkeley working at the intersection of machine learning and synthetic biology.
+
+# Social profiles — used for sidebar icons AND the schema.org `sameAs` array in
+# the Person JSON-LD that jekyll-seo-tag emits (via `social.links`).
 google_scholar: https://scholar.google.com/citations?hl=en&user=v26ZPFEAAAAJ
-# cv_link: assets/files/curriculum_vitae.pdf  # hidden for now — re-enable once an updated CV PDF is in place
+# cv_link: assets/files/curriculum_vitae.pdf   # hidden for now — re-enable once an updated CV PDF is in place
 github_link: https://github.com/lucaswaldburger
 linkedin: https://www.linkedin.com/in/lucaswaldburger
-twitter: https://twitter.com/lucaswaldburger
+# orcid: https://orcid.org/0000-0000-0000-0000   # add your ORCID iD to surface the icon + sameAs entry
+twitter:
+  username: lucaswaldburger
+  card: summary_large_image
 
-# Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+social:
+  name: Lucas Waldburger
+  links:
+    - https://scholar.google.com/citations?hl=en&user=v26ZPFEAAAAJ
+    - https://github.com/lucaswaldburger
+    - https://www.linkedin.com/in/lucaswaldburger
+    - https://x.com/lucaswaldburger
+
+# Images (profile picture and favicons)
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
 avatar: ./assets/img/headshot.jpg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
-# Footnote
-# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: false
-
-# Auto Dark Mode
-# You may use the option to disable the automatic dark theme
-auto_dark_mode: true
-
-# Font
-# You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" # or "Sans Serif"
-
 # Google Analytics ID
-# Please remove this if you don't use Google Analytics
+# Uncomment and set to enable analytics.
 # google_analytics: UA-111540567-4
 
-# Use this project as a remote theme for GitHub Pages
-# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-remote_theme: yaoyao-liu/minimal-light
+# Build
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # The following files will be removed from the generated website.
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - README_zh_Hans.md
-  - README_zh_Hant.md
-  - README_de.md
   - LICENSE
-  - minimal-light.gemspec
-  - html_source_file/
