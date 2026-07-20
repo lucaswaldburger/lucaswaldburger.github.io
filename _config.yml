@@ -38,11 +38,8 @@ social:
     - https://www.linkedin.com/in/lucaswaldburger
     - https://x.com/lucaswaldburger
 
-# Images (profile picture and favicons)
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
+# Profile picture
 avatar: ./assets/img/headshot.jpg
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
 
 # Google Analytics ID
 # Uncomment and set to enable analytics.
