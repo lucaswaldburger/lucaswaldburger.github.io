@@ -83,12 +83,14 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.15;
 }
 
-/* The name anchors the page — larger and heavier than the section headings. */
+/* The name anchors the page — larger and heavier than the section headings.
+   Sized to stay on a single line within the 232px sidebar. */
 h1 {
   font-weight: 700;
-  font-size: 1.85rem;
+  font-size: 1.6rem;
   letter-spacing: -0.02em;
   margin: 0 0 6px;
+  white-space: nowrap;
 }
 
 h2 {
