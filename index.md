@@ -4,9 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a PhD Student in Bioengineering at UC Berkeley advised by Jay Keasling and Patrick Shih. My research focuses on developing molecular technologies and algorithms to model the evolutionary dynamics of gene regulatory systems. Previously, I studied Electrical Engineering & Computer Science, where I worked on multi-agent systems, and Molecular & Cell Biology, where I worked on biological feedback control.
+I currently work on automated red-teaming of scientific capabilities for scalable oversight of AI models.
 
-I am grateful to have my research supported by the H2H8 and NSF Graduate Research Fellowships.
+I completed my PhD in Bioengineering at UC Berkeley advised by Jay Keasling and Patrick Shih. My research focused on developing molecular technologies and algorithms to model the evolutionary dynamics of gene regulatory systems. Previously, I studied Electrical Engineering & Computer Science, where I worked on multi-agent systems, and Molecular & Cell Biology, where I worked on biological feedback control.
+
+I am grateful to have had my research supported by the H2H8 and NSF Graduate Research Fellowships.
 
 ## Research Interests
 

@@ -283,22 +283,25 @@ footer {
 
 .social-icons {
   margin-top: 14px;
+  /* Flex row with nowrap: the sidebar is a fixed 232px, so inline-block icons
+     wrapped to a second line once a fifth icon was added. */
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  gap: 0.15rem;
 }
 
 .social-icons a {
-  display: inline-block;
+  flex: 0 0 auto;
   height: 2.2rem;
   width: 2.2rem;
   color: var(--social-color) !important;
   text-align: center;
   font-size: 1.2rem;
   line-height: 2.3rem;
-  margin-right: 0.6rem;
   border-radius: 100%;
   transition: color .18s ease, transform .18s ease;
 }
-
-.social-icons a:last-child { margin-right: 0; }
 
 .social-icons a:hover {
   color: var(--social-hover) !important;

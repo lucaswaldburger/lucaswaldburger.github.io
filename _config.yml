@@ -1,7 +1,7 @@
 # Basic Information
 title: Lucas Waldburger
 author: Lucas Waldburger
-position: PhD Student
+position: Research Fellow
 affiliation: UC Berkeley
 affiliation_link: https://www.berkeley.edu
 # Email is deliberately shown in a split "(at)" form (not a mailto link) to deter scrapers.
@@ -17,10 +17,11 @@ baseurl: ""
 tagline: UC Berkeley
 # `description` feeds the meta description, Open Graph, and Twitter cards
 # rendered by jekyll-seo-tag (see the `plugins` block below).
-description: Lucas Waldburger — PhD student in Bioengineering at UC Berkeley working at the intersection of machine learning and synthetic biology.
+description: Lucas Waldburger — Research Fellow in AI Biosecurity.
 
 # Social profiles — used for sidebar icons AND the schema.org `sameAs` array in
 # the Person JSON-LD that jekyll-seo-tag emits (via `social.links`).
+resume_link: assets/files/Lucas_Waldburger_Resume.pdf
 google_scholar: https://scholar.google.com/citations?hl=en&user=v26ZPFEAAAAJ
 # cv_link: assets/files/curriculum_vitae.pdf   # hidden for now — re-enable once an updated CV PDF is in place
 github_link: https://github.com/lucaswaldburger

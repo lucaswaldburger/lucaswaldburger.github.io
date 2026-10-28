@@ -2,10 +2,10 @@ main:
 
   - title: "Active learning enables discovery of transcriptional activators across fungal evolutionary space"
     authors: <strong>L. M. Waldburger</strong>, H. Nisonoff, M. Zintel, et al.
-    conference_short: bioRxiv
+    conference_short: Genome Biology
     conference_short_2: NeurIPS Workshop
-    conference: bioRxiv preprint, 2025.
-    pdf: https://www.biorxiv.org/content/10.1101/2025.09.12.675635v1
+    conference: Genome Biology, 2026.
+    pdf: https://link.springer.com/article/10.1186/s13059-026-04269-7
     # code: https://github.com/lucaswaldburger/REPO      # add the public repo URL to show a "Code" button
     # bibtex: /assets/files/bibtex/active-learning-fungal.txt   # add a .txt/.bib to show a "BibTeX" button
     image: ./assets/img/pubs/active-learning-fungal.jpg
