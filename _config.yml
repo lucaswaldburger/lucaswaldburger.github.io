@@ -42,6 +42,9 @@ social:
 # Profile picture
 avatar: ./assets/img/headshot.png
 
+# Cloudflare Web Analytics public site token (not an API credential).
+cloudflare_analytics_token: 0e73badfe8034ce08c31f639ff4605eb
+
 # Google Analytics ID
 # Uncomment and set to enable analytics.
 # google_analytics: UA-111540567-4
